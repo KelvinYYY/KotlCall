@@ -1,6 +1,6 @@
 location.php
 <?php
- //adapted from Ravi Tamada's tutorial
+
 require_once 'include/DB_Functions.php';
 $db = new DB_Functions();
  
